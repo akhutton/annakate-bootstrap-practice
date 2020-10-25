@@ -12,6 +12,7 @@
 .jumbotron {
     background-image: url("../img/pirate-ship.jpg");
     background-size: cover;
+    font-family: Roboto;
 }
 
 .navbar-nav {
@@ -26,5 +27,18 @@
         text-decoration: underline;
       }
     }
+
+#byline {
+    font-weight: bold;
+}
+
+#credit {
+    font-style: italic;
+}
+
+h1 {
+    font-family: Roboto;
+}
+
 
 // Import partials here
