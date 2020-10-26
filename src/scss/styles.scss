@@ -12,7 +12,7 @@
 .jumbotron {
     background-image: url("../img/pirate-ship.jpg");
     background-size: cover;
-    font-family: Roboto;
+    font-family: 'Roboto', 'Arial Narrow', Arial, sans-serif;
 }
 
 .navbar-nav {
@@ -37,7 +37,13 @@
 }
 
 h1 {
-    font-family: Roboto;
+    font-family: 'Roboto', 'Arial Narrow', Arial, sans-serif;
+}
+
+footer {
+    padding: 30px;
+    background-color: navajowhite;
+    text-align: center;
 }
 
 
